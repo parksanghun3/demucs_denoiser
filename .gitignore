@@ -1,0 +1,6 @@
+outputs/
+test/
+runs/
+noise_data/
+data_checking/
+__pycache__/
